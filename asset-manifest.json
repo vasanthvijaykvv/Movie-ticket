@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Movie-ticket/static/css/main.fd22d27a.css",
+    "main.js": "/Movie-ticket/static/js/main.5df241a5.js",
+    "static/media/wonderwoman.jpg": "/Movie-ticket/static/media/wonderwoman.bbf92ce26484925ab29c.jpg",
+    "static/media/dangal.jpg": "/Movie-ticket/static/media/dangal.fb7941db20a809e2cc42.jpg",
+    "static/media/vikram1.jpg": "/Movie-ticket/static/media/vikram1.da1f18b6282cbf86b57d.jpg",
+    "static/media/KGF2.jpg": "/Movie-ticket/static/media/KGF2.8070b7ad59c11c043bbd.jpg",
+    "static/media/valimai.jpg": "/Movie-ticket/static/media/valimai.207ede3ac5b45497babb.jpg",
+    "static/media/suryamovie.jpg": "/Movie-ticket/static/media/suryamovie.0761f2c8ed50ea2d5242.jpg",
+    "static/media/johnwick.jpg": "/Movie-ticket/static/media/johnwick.1c6044540cfdc300fb5e.jpg",
+    "static/media/pushpa.jpg": "/Movie-ticket/static/media/pushpa.583f1b99863de106f5aa.jpg",
+    "static/media/avengers.jpg": "/Movie-ticket/static/media/avengers.b262a78fef66bc459ea4.jpg",
+    "static/media/beast1.jpg": "/Movie-ticket/static/media/beast1.062ff3c0f11425768d9b.jpg",
+    "static/media/conjuring3.jpg": "/Movie-ticket/static/media/conjuring3.fa6512ef13f1706077b1.jpg",
+    "static/media/errorpage.png": "/Movie-ticket/static/media/errorpage.866729c54e518e0113b4.png",
+    "index.html": "/Movie-ticket/index.html",
+    "main.fd22d27a.css.map": "/Movie-ticket/static/css/main.fd22d27a.css.map",
+    "main.5df241a5.js.map": "/Movie-ticket/static/js/main.5df241a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd22d27a.css",
+    "static/js/main.5df241a5.js"
+  ]
+}
