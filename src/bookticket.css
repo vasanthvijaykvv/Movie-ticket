@@ -1,0 +1,66 @@
+.container {
+
+    padding: 5px;
+}
+
+.box,
+.box1 {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 9px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box1 {
+    position: absolute;
+    left: 220px;
+    margin-top: 14px;
+    cursor: pointer;
+    border: 1px solid pink;
+    border-radius: 35px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, .37);
+    font-weight: bold;
+}
+
+.emptyclass {
+    color: pink;
+    cursor: default;
+}
+
+.btn {
+    border: 1px solid pink;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, .37);
+    font-weight: bold;
+}
+
+#previous {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    min-width: 1400px;
+    background: pink;
+    overflow-x: hidden;
+}
+
+.boxshadow {
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, .37);
+    cursor: pointer;
+}
+
+.boxshadow:hover {
+    transform: scale(1.05);
+    transition: .45s;
+}
+
+.outputvalue {
+    border: 1px solid pink;
+    box-shadow: 0 6px 20px 0 rgba(31, 38, 135, .37);
+    padding: 3px;
+}
